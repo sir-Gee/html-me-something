@@ -6,3 +6,18 @@ p{
     font-size: 5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+
+#menu{
+    display: inline;
+    font-size: 2em;
+    padding: 10px;   
+}
+
+#head-navbar{
+    text-decoration: none;
+}
+
+#name{
+    text-align: center;
+    left: 50%;
+}
